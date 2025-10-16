@@ -1,16 +1,14 @@
-## Hi there 👋
+HI 👋, I’m Tarun Suthar
+.I am Currently Developing Mobile Applications for Android
+.👀 I’m interested in Android App Development
+.🌱 I’m currently learning croos platform
+.💞️ I’m looking to collaborate on Open Source Android Projects
+.🎓 Education: B.tech. Computer science,
+.📫 How to reach me :tarunsuthar933@gmail.com
+.😄 Pronouns: He/Him
+.⚡ Fun fact: I have a building Mind
+Support My Work ❤️
+Buy Me A Coffee
 
-<!--
-**tarunnsutharr/tarunnsutharr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I Use 👨‍💻
+android java firebase kotlin c++ git 
