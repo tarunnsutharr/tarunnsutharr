@@ -1,6 +1,7 @@
-Hi 👋, I’m Tarun Suthar  
+# HI 👋, I’M TARUN SUTHAR
 
-I am Currently Developing Mobile Applications for Android  
+• I am Currently Developing Mobile Applications for Android
+
 
 👀 I’m interested in Android App Development  
 🌱 I’m currently learning Cross Platform Development  
@@ -11,6 +12,11 @@ I am Currently Developing Mobile Applications for Android
 ⚡ Fun fact: I have a building Mind  
 
 Support My Work ❤️  
+
+<span style="font-family: 'Cursive', sans-serif; color:#222222; font-size:24px;">
+☕ Buy Me A Coffee
+</span>
+ 
 
 ## Technologies I Use 👨‍💻
 
