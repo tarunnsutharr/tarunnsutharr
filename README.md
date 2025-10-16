@@ -1,4 +1,5 @@
 Hi 👋, I’m Tarun Suthar  
+
 I am Currently Developing Mobile Applications for Android  
 
 👀 I’m interested in Android App Development  
@@ -10,7 +11,12 @@ I am Currently Developing Mobile Applications for Android
 ⚡ Fun fact: I have a building Mind  
 
 Support My Work ❤️  
-Buy Me A Coffee  
 
 ## Technologies I Use 👨‍💻
-Android | Java | Firebase | Kotlin | C++ | Git
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="40"/>
+
+
+
+
+
