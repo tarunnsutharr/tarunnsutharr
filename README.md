@@ -1,4 +1,5 @@
-# HI 👋, I’M TARUN SUTHAR
+
+# NAMASTE 👋, I’M TARUN SUTHAR
 
 • I am Currently Developing Mobile Applications for Android
 
