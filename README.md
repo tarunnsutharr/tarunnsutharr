@@ -22,6 +22,9 @@ Support My Work ❤️
 ## Technologies I Use 👨‍💻
 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40"/>
+
+
 
 
 ## 📊 My GitHub Stats
