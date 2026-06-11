@@ -4,8 +4,8 @@
 • I am Currently Developing Mobile Applications for Android
 
 
-👀 I’m interested in Android App Development  
-🌱 I’m currently learning Cross Platform Development  
+👀 I’m interested in App Development  
+🌱 I’m currently learning New Technologies   
 💞️ I’m looking to collaborate on Open Source Android Projects  
 🎓 Education: B.Tech. Computer Science  
 📫 How to reach me: tarunsuthar933@gmail.com  
